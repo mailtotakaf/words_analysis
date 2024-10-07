@@ -6,3 +6,6 @@ mecab-python3とscikit-learnを使用して、文章の重要な文を抽出し�
 
 bert_summarize.py
 BERTモデルのHugging FaceのTransformersを使った要約
+
+mecab_to_pandas.py
+MeCabで形態素解析を行い、その結果をPandasのデータフレームに格納して解析する。これにより、各単語や品詞などの情報を整理し、統計的に分析しやすくなる。
