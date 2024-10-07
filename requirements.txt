@@ -2,3 +2,8 @@ scikit-learn
 pandas
 janome
 mecab-python3
+torch
+transformers
+fugashi
+ipadic
+# mecab-ipadic
