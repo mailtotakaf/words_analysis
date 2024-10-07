@@ -9,3 +9,6 @@ BERTモデルのHugging FaceのTransformersを使った要約
 
 mecab_to_pandas.py
 MeCabで形態素解析を行い、その結果をPandasのデータフレームに格納して解析する。これにより、各単語や品詞などの情報を整理し、統計的に分析しやすくなる。
+
+TF-IDF.py
+MeCabで形態素解析された後の、各単語の重要度TF-IDFの値
